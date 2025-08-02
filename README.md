@@ -4,7 +4,7 @@
 
 Me chamo Tauê Alves dos Santos, tenho 24 anos e sou natural de Guarulhos - Sp. 
 Atualmente, estou cursando Sistemas de Informação no Centro Universitário Eniac. Sou apaixonado por tecnologia.
-meu Linkendin "[TauêSantos](https://www.linkedin.com/in/tau%C3%AA-santos-aa938020b/)"
+Meu Linkendin "[TauêSantos](https://www.linkedin.com/in/tau%C3%AA-santos-aa938020b/)"
 
 
 ---
