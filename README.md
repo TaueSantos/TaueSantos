@@ -21,9 +21,9 @@ Meu Linkedin "[TauêSantos](https://www.linkedin.com/in/tau%C3%AA-santos-aa93802
 
 ### 📊 Estatísticas
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaueSantos&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TaueSantos&layout=compact&theme=tokyonight" />
+![Repos](https://img.shields.io/github/repos/TaueSantos?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/TaueSantos?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/TaueSantos?style=for-the-badge)
 
 
 
