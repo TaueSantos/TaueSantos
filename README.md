@@ -21,14 +21,6 @@ Meu Linkedin "[TauêSantos](https://www.linkedin.com/in/tau%C3%AA-santos-aa93802
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaueSantos&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
+[![Estatísticas do GitHub](https://taue-santos.vercel.app/api?username=TaueSantos&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaueSantos&theme=tokyonight" alt="Sequência de Contribuições" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaueSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Linguagens" />
-</p>
+[![Top Linguagens](https://taue-santos.vercel.app/api/top-langs/?username=TaueSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
