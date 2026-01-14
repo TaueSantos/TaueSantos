@@ -21,9 +21,12 @@ Meu Linkedin "[TauêSantos](https://www.linkedin.com/in/tau%C3%AA-santos-aa93802
 
 ### 📊 Estatísticas
 
-![Repos](https://img.shields.io/github/repos/TaueSantos?style=for-the-badge)
+
+
+![Repos](https://img.shields.io/github/repo-count/TaueSantos?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/TaueSantos?style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/TaueSantos?style=for-the-badge)
+
 
 
 
