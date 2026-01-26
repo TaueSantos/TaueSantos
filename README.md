@@ -19,11 +19,6 @@ Meu Linkedin "[TauêSantos](https://www.linkedin.com/in/tau%C3%AA-santos-aa93802
   <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right: 10px;" />
 </p>
 
-### 📊 Estatísticas
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TaueSantos&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TaueSantos&layout=compact&theme=tokyonight" />
 
 
 
